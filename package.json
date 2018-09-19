@@ -1,0 +1,11 @@
+{
+  "name": "wilson",
+  "version": "1.0.0",
+  "description": "Calculate the lower bound of a Wilson score interval with Bernoulli parameters\"",
+  "main": "wilson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
