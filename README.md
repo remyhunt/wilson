@@ -7,5 +7,5 @@ This NPM package was inspired by [Evan Miller's popular blog post](https://evanm
 To better understand this idea, I used research from several other resources, including
 
 - [Reddit blog (Randall from XKCD)](https://redditblog.com/2009/10/15/reddits-new-comment-sorting-system/)
-- [Binomial Proportion Confidnece Intervals, Wikipedia](https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Wilson_score_interval)
-- [This Math Overflow post](https://mathoverflow.net/questions/59933/a-problem-with-lower-bound-of-wilson-score-confidence-interval)
+- [Binomial Proportion Confidnece Intervals](https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Wilson_score_interval), Wikipedia
+- [This](https://mathoverflow.net/questions/59933/a-problem-with-lower-bound-of-wilson-score-confidence-interval) Math Overflow Post
