@@ -3,6 +3,7 @@
 Using a Wilson score confidence interval to better sort a list of items by calculating its lower bound, given Bernoulli Parameters.
 
 This NPM package was inspired by [Evan Miller's popular blog post](https://evanmiller.org/how-not-to-sort-by-average-rating.html) on better implementations for star ratings on popular sites.
+![alt text](https://raw.githubusercontent.com/remyhunt/wilson/master/equation.png)
 
 To better understand this idea, I used research from several other resources, including
 
